@@ -8,10 +8,26 @@ The goal of this case study was to manipulate data about online consumer behavio
 
 ### Learning Excel Data Analysis:
 
-Once a 
+"Description"
 
+##### Software Used:
 
-## Credit
+[<img src="https://img.shields.io/badge/Excel-25631c?style=for-the-badge&logo=microsoft&logoColor=white"/>]()
 
-* Dataset: <a href="https://www.kaggle.com/datasets/mountboy/online-store-customer-data">Online Store Customer Data</a>
-* Author: Noro Chalise
+##### Credit
+
+* Dataset: <a href="https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively?autoplay=true">Learning Excel: Data Analysis</a>
+* Author: Curt Frye
+
+### Lookup Functions in Depth:
+
+"Description"
+
+##### Software Used:
+
+[<img src="https://img.shields.io/badge/Excel-25631c?style=for-the-badge&logo=microsoft&logoColor=white"/>]()
+
+##### Credit
+
+* Dataset: <a href="https://www.linkedin.com/learning/excel-lookup-functions-in-depth/introduction?autoplay=true">Excel: Lookup Functions In Depth</a>
+* Author: Curt Frye
