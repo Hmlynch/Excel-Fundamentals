@@ -16,7 +16,7 @@ The goal of this case study was to manipulate data about online consumer behavio
 
 ##### Credit
 
-* Dataset: <a href="https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively?autoplay=true">Learning Excel: Data Analysis</a>
+* LinkedIn Course: <a href="https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively?autoplay=true">Learning Excel: Data Analysis</a>
 * Author: Curt Frye
 
 ### Lookup Functions in Depth:
@@ -29,5 +29,5 @@ The goal of this case study was to manipulate data about online consumer behavio
 
 ##### Credit
 
-* Dataset: <a href="https://www.linkedin.com/learning/excel-lookup-functions-in-depth/introduction?autoplay=true">Excel: Lookup Functions In Depth</a>
+* LinkedIn Course: <a href="https://www.linkedin.com/learning/excel-lookup-functions-in-depth/introduction?autoplay=true">Excel: Lookup Functions In Depth</a>
 * Author: Dennis Taylor
