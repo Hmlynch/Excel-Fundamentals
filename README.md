@@ -8,7 +8,7 @@ The goal of this folder is to display the courses I have taken to further advanc
 
 ### Learning Excel Data Analysis:
 
-Curt Frye throughout this course describes how you can utilize excel to proceed with the data analysis process using varying techniques, functions, and methods. The following concepts that are focused on in this course are the Foundational Concepts of Data Analysis; Visualizing Data; Testing a Hypothesis; Utilizing Data Distributions; Measuring Covariance and Correlation; Calculating Probabilities, Combinations, and Permutations; and lastly Performing Bayesian Analysis. 
+Curt Frye throughout this course describes how you can utilize excel to proceed with the data analysis process using varying techniques, functions, and methods. The following concepts that are focused on in this course are: the Foundational Concepts of Data Analysis; Visualizing Data; Testing a Hypothesis; Utilizing Data Distributions; Measuring Covariance and Correlation; Calculating Probabilities, Combinations, and Permutations; and lastly Performing Bayesian Analysis. 
 
 ##### Software Used:
 
