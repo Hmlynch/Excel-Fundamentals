@@ -2,13 +2,13 @@
 
 ## Repository Description:
 
-The goal of this case study was to manipulate data about online consumer behavior and answer questions regarding the data’s story. This particular dataset was downloaded from Kaggle from the author Noro Chalise. The context behind the data is information regarding how consumers had made a transaction and what sort of groups/patterns got them to that conclusion. With knowing this information, I wrote out 12 questions regarding specific variables from the dataset and planned to answer them with graphs and visuals. The 12 questions are:
+The goal of this folder is to display the courses I have taken to further advance my Excel knowledge. Each course has its purpose and further explanations to what the courses main objectives were will be provided under their individual titles below.
 
 ## Folder Descriptions:
 
 ### Learning Excel Data Analysis:
 
-"Description"
+Curt Frye throughout this course describes how you can utilize excel to proceed with the data analysis process using varying techniques, functions, and methods. The following concepts that are focused on in this course are the Foundational Concepts of Data Analysis; Visualizing Data; Testing a Hypothesis; Utilizing Data Distributions; Measuring Covariance and Correlation; Calculating Probabilities, Combinations, and Permutations; and lastly Performing Bayesian Analysis. 
 
 ##### Software Used:
 
@@ -21,7 +21,7 @@ The goal of this case study was to manipulate data about online consumer behavio
 
 ### Lookup Functions in Depth:
 
-"Description"
+Dennis Taylor goes into the depths of utilizing different lookup methods to maximize efficiency in excel. The major concepts discussed in the course are: Using MATCH, INDEX, AND XMATCH Functions; Using XLOOKUP, VLOOKUP, AND HLOOKUP Functions; Using CHOOSE and SWITCH Function; and Utilizing Other Lookup Functions. These all provide great Excel foundational practices that can benefit the data analysis process. 
 
 ##### Software Used:
 
