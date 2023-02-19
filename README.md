@@ -30,4 +30,4 @@ The goal of this case study was to manipulate data about online consumer behavio
 ##### Credit
 
 * Dataset: <a href="https://www.linkedin.com/learning/excel-lookup-functions-in-depth/introduction?autoplay=true">Excel: Lookup Functions In Depth</a>
-* Author: Curt Frye
+* Author: Dennis Taylor
